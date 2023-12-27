@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thomas-Butterfield
-- 👀 I’m interested in ... Cloud Computing, Cyber Security, Terraform & PowerShell
+- 👀 I’m interested in ... Azure, Terraform, PowerShell & Cyber Security
 - 📫 How to reach me ... thomas@butterfield.tech
 <!---
 Thomas-Butterfield/Thomas-Butterfield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
